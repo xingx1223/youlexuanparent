@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/service_page" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan_service_page" />
+  </component>
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/service_page/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_content_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan_content_service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
